@@ -20,7 +20,15 @@ Welcome to the official repository for the **Summer R Programming Bootcamp** –
 
 ## 📁 Repo Structure
 
-r-bootcamp-summer/ ├── week1_intro/ ├── week2_data_structures/ ├── week3_data_import_cleaning/ ├── week4_dplyr/ ├── week5_ggplot2/ ├── resources/ ├── schedule.pdf └── README.md
+r-bootcamp-summer/ 
+  ├── week1_intro/
+  ├── week2_data_structures/
+  ├── week3_data_import_cleaning/
+  ├── week4_dplyr/
+  ├── week5_ggplot2/
+  ├── resources/
+    ├── schedule.pdf
+  └── README.md
 
 ## 📺 Session Recordings
 
