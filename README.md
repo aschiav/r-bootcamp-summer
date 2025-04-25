@@ -14,21 +14,9 @@ Welcome to the official repository for the **Summer R Programming Bootcamp** –
 | 4    | [Insert Date] | Data Manipulation with `dplyr`  |
 | 5    | [Insert Date] | Visualization with `ggplot2`    |
 
-> 🕐 Sessions are 1 hour long and held live via [insert platform]. Recordings and materials will be posted weekly.
+> 🕐 Sessions are 1 hour long and held live via Webex. Recordings and materials will be posted weekly.
 
 ---
-
-## 📁 Repo Structure
-
-r-bootcamp-summer/ 
-  ├── week1_intro/
-  ├── week2_data_structures/
-  ├── week3_data_import_cleaning/
-  ├── week4_dplyr/
-  ├── week5_ggplot2/
-  ├── resources/
-    ├── schedule.pdf
-  └── README.md
 
 ## 📺 Session Recordings
 
