@@ -21,3 +21,28 @@ Welcome to the official repository for the **Summer R Programming Bootcamp** –
 ## 📁 Repo Structure
 
 r-bootcamp-summer/ ├── week1_intro/ ├── week2_data_structures/ ├── week3_data_import_cleaning/ ├── week4_dplyr/ ├── week5_ggplot2/ ├── resources/ ├── schedule.pdf └── README.md
+
+## 📺 Session Recordings
+
+Recordings will be uploaded weekly here:
+- [Week 1 Recording](#)
+- [Week 2 Recording](#)
+- [Week 3 Recording](#)
+- [Week 4 Recording](#)
+- [Week 5 Recording](#)
+
+---
+
+## 📚 Extra Resources
+
+- [RStudio Cheat Sheet (PDF)](https://posit.co/resources/cheatsheets/)
+- [Tidyverse.org](https://www.tidyverse.org/)
+- [R for Data Science (free online book)](https://r4ds.hadley.nz/)
+
+---
+
+## 🧠 Questions or Suggestions?
+
+Feel free to open an [Issue](https://github.com/yourusername/r-bootcamp-summer/issues) or reach out to [your email].
+
+---
